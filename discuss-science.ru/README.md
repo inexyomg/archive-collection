@@ -1,4 +1,4 @@
-# Архив официального сайта discuss-science.ru
+# Архив сайта discuss-science.ru
 
 
 ## Архивирование с использованием wpull
