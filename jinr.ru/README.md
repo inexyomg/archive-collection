@@ -5,9 +5,9 @@
 ### Описание  
 В этом разделе представлены результаты архивирования сайта с помощью инструмента `wpull`.
 ### Результаты  
-ReplayWeb.page не позволяет запугрузить архив на сервис.
+ReplayWeb.page не позволяет запугрузить архив на сервис. Также загрузка архива была остановлена вручную.
 
-![ar_jinr](https://github.com/user-attachments/assets/985d8324-3db7-4bbb-8dff-7c430c6ee1b7)
+![replay_jinr](https://github.com/user-attachments/assets/08789107-31e3-4941-963a-2fe4a2ba9879)
 
 ## Оценка архивируемости с Archive Ready  
 
