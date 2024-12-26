@@ -44,5 +44,6 @@ ReplayWeb.page не позволяет загружать крупные арх�
 
 ### Результаты `metadata`
 
-Файл digital_meta_discuss-science.jsonl
+Файл [digital_meta_discuss-science.jsonl](digital_meta_discuss-science.jsonl)
+
 
